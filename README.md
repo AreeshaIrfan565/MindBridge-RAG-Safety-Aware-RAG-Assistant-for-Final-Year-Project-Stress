@@ -2,7 +2,7 @@
 
 Safety-Aware RAG Assistant for Final-Year Project Stress.
 
-## 8th Semester Proect 
+## 8th Semester Project 
 
 -  Areesha(22017020020)
 
