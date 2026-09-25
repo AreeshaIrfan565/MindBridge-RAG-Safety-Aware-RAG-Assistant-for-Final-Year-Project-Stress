@@ -4,7 +4,7 @@ Safety-Aware RAG Assistant for Final-Year Project Stress.
 
 ## Team
 
-- Hassaan (049)
+-  Areesha(020)
 
 ## Project Overview
 
